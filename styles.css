@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+.container-menu {
+  padding: 10px 38px;
+  display: flex;
+  gap: 14px;
+  justify-content: right;
+}
+.container-vertical {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+
+input[type="text"] {
+}
+
+.container-busca {}
+
+.container-busca {
+  display: flex;
+  justify-content: center;
+  margin: 22px;
+}
+
+.container-icones {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.ajuste {
+  width: 40%;
+  display: flex;
+  gap: 10px;
+  flex-flow: wrap;
+  justify-content: center;
+}
+.icone i {
+  font-size: 32px;
+}
+p {
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 18px;
+  padding: 0px 12px;
+  text-align: justify;
+}
+.foto-grande{
+  width: 100%;
+}
+.contatos li {
+  margin:5px 0px;
+}
+
+.mapa{
+  width: 100%;
+}
